@@ -9,7 +9,5 @@ eduAll varchar(1500),
 workAll varchar(1500),
 skillAll varchar(1500));
 
-
-
 select * from Resume;
 
